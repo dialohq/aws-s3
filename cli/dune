@@ -1,5 +1,0 @@
-(library
- (name      aws_cli)
- (modules   "aws" "cli")
- (libraries aws-s3 cmdliner)
-)
